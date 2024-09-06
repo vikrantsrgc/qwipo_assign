@@ -1,0 +1,42 @@
+.adduser {
+    width: 50%;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .addUserfrom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .inputGroup {
+    margin-bottom: 20px;
+    width: 100%;
+    
+    /* text-align: center; */
+  }
+  
+  .inputGroup label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .inputGroup input {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+   h3{
+    margin-top:10px ;
+    text-align: center;
+    font-size: 40px;
+    /* background-color: yellow; */
+   }
+
+   
